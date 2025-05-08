@@ -1,5 +1,5 @@
 name: 'my first container ation'
-description: 'Love you!!!'
+description: 'Love you'
 author: 'Foluke M."
 inputs:
   myInput:
